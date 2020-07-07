@@ -1,14 +1,14 @@
-- name: Corporate
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas luctus non elit ac tempor. Aliquam vitae odio a sapien tempus vehicula in at sapien. Sed rutrum tincidunt massa, quis pretium sem interdum quis. Suspendisse nec arcu dolor. Proin convallis tempus ligula, congue placerat neque auctor at. Vivamus aliquam massa in luctus cursus. In et mauris nec nunc varius dignissim ac vel diam.
+- name: Corporate Law
+  description: We offer progressive counsel cutting across several industries including financial services,private equity,energy,mining and infrastructure,education and technology.
 
 - name: Litigation
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas luctus non elit ac tempor. Aliquam vitae odio a sapien tempus vehicula in at sapien. Sed rutrum tincidunt massa, quis pretium sem interdum quis. Suspendisse nec arcu dolor. Proin convallis tempus ligula, congue placerat neque auctor at. Vivamus aliquam massa in luctus cursus. In et mauris nec nunc varius dignissim ac vel diam.
+  description: We are dedicated to protect your interests in a wide range of matters including personal injury,employment disputes,commercial disputes and land matters.
 
 - name: Intellectual Property
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas luctus non elit ac tempor. Aliquam vitae odio a sapien tempus vehicula in at sapien. Sed rutrum tincidunt massa, quis pretium sem interdum quis. Suspendisse nec arcu dolor. Proin convallis tempus ligula, congue placerat neque auctor at. Vivamus aliquam massa in luctus cursus. In et mauris nec nunc varius dignissim ac vel diam.
+  description: We are committed to protect your ideas with specialized IP legal consultancy.
 
-- name: Commercial
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas luctus non elit ac tempor. Aliquam vitae odio a sapien tempus vehicula in at sapien. Sed rutrum tincidunt massa, quis pretium sem interdum quis. Suspendisse nec arcu dolor. Proin convallis tempus ligula, congue placerat neque auctor at. Vivamus aliquam massa in luctus cursus. In et mauris nec nunc varius dignissim ac vel diam.
+- name: Conveyancing
+  description: We handle all matters land with utmost professionalism and dedication.
 
-- name: Privacy
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas luctus non elit ac tempor. Aliquam vitae odio a sapien tempus vehicula in at sapien. Sed rutrum tincidunt massa, quis pretium sem interdum quis. Suspendisse nec arcu dolor. Proin convallis tempus ligula, congue placerat neque auctor at. Vivamus aliquam massa in luctus cursus. In et mauris nec nunc varius dignissim ac vel diam.
+- name: Tax Law
+  description: We offer tax advisory to commercial entities.
