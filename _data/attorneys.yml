@@ -1,53 +1,12 @@
-- name: John Roberts
-  bio: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas luctus non elit ac tempor. Aliquam vitae odio a sapien tempus vehicula in at sapien.
-  picture: john.jpg
-  email: john@lawfirm.com
-  phone: "+1 650 000 001"
+- name: Patricia Barorot
+  bio: Patrner,Holds an LLB from University of Nairobi, a post graduate Diploma from kenya School of Law and an LLM from Cradiff University.
+  picture: 
+  email: barorotlaw@gamil.com
+  phone: "0724 004 948"
 
-- name: Clarence Thomas
-  bio: Lorem ipsum dolor sit amet. Quisque finibus rutrum nisl, ac viverra nunc mattis non. Phasellus in purus nec mi tempor vehicula eu sed magna.
-  picture: clarence.jpg
-  email: clarence@lawfirm.com
-  phone: "+1 650 000 002"
+- name: Douglas Okari
+  bio: Patrner,Holds an LLB from Moi University and a post graduate Diploma from Kenya School of Law.
+  picture: 
+  email: barorotlaw@gmail.com
+  phone: "0700 236 231"
 
-- name: Ruth Bader Ginsburg
-  bio: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas luctus non elit ac tempor. Aliquam vitae odio a sapien tempus vehicula in at sapien.
-  picture: ruth.jpg
-  email: ruth@lawfirm.com
-  phone: "+1 650 000 003"
-
-- name: Stephen Breyer
-  bio: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas luctus non elit ac tempor. Aliquam vitae odio a sapien tempus vehicula in at sapien.
-  picture: stephen.jpg
-  email: stephen@lawfirm.com
-  phone: "+1 650 000 004"
-
-- name: Samuel Alito
-  bio: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas luctus non elit ac tempor. Aliquam vitae odio a sapien tempus vehicula in at sapien.
-  picture: samuel.jpg
-  email: samuel@lawfirm.com
-  phone: "+1 650 000 005"
-
-- name: Sonia Sotomayor
-  bio: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas luctus non elit ac tempor. Aliquam vitae odio a sapien tempus vehicula in at sapien.
-  picture: sonia.jpg
-  email: sonia@lawfirm.com
-  phone: "+1 650 000 006"
-
-- name: Elena Kagan
-  bio: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas luctus non elit ac tempor. Aliquam vitae odio a sapien tempus vehicula in at sapien.
-  picture: elena.jpg
-  email: elena@lawfirm.com
-  phone: "+1 650 000 007"
-
-- name: Neil Gorsuch
-  bio: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas luctus non elit ac tempor. Aliquam vitae odio a sapien tempus vehicula in at sapien.
-  picture: neil.jpg
-  email: neil@lawfirm.com
-  phone: "+1 650 000 008"
-
-- name: Brett Kavanaught
-  bio: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas luctus non elit ac tempor. Aliquam vitae odio a sapien tempus vehicula in at sapien.
-  picture: brett.jpg
-  email: brett@lawfirm.com
-  phone: "+1 650 000 009"
