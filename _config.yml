@@ -1,23 +1,23 @@
 # Welcome to your law firm website. Change the values in this file to configure your site. 
 
 # The name of your law firm
-title: Barorot & Co. Advocates
+title: Barorot & Company Advocates
 
 # The email address of your law firm. Messages sent using the contact form will arrive at this address.
-email: "barorotlaw@gamil.com"
+email: "barorotlaw@gmail.com"
 
 # The phone number of your law firm. This will be displayed on the website.
 phone: "0700236231  0724 004948"
 
 # The description of your website. This will be displayed in the footer of the website
 description: >- # this means to ignore newlines until "baseurl:"
-  Barorot & Co. Advocates is  full-service firm in the Eldoret. No matter your issue, we have your covered.
+  Barorot & Co. Advocates is  full-service firm in the Eldoret. We serve both locals and Kenyans in the diaspora providing them with investment solutions in Eldoret and its environs.We place profesionalism and transparency very highy in our work ethic and this makes us an ideal investment partner. 
 
 # The tagline of your website. This will be displayed on the home page of your website
 tagline: Connected to people
 
 # The address of your firm. This will be displayed in the footer of your website
-address_1: "OLA Pertoneum opp six Resort next to Moi University Annex"
+address_1: "OLA Pertoneum Complex Annex,Eldoret next to Moi University Annex"
 address_2: "Eldoret-Nakuru Highway"
 
 # It would not be a legal website without a disclaimer! This will be displayed in the footer of your website
